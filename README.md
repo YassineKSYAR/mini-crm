@@ -10,4 +10,7 @@ A personal full-stack development project.
 
 ## Technologies
 
-- To be decided
+- Java
+- Spring Boot
+- React
+- PostgreSQL
